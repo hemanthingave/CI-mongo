@@ -1,5 +1,5 @@
 # CI-mongo
-it contain all mongo operation with dummy dataset, just for practice only
+    it contain all mongo operation with dummy dataset, just for practice only
 
 # CI-mongo Specifications
     Codeigniter 3.1.6
